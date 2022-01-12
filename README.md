@@ -9,7 +9,7 @@ My self-learning computer science journey.
 - [Markdown]()
 - [Git]()
 - [Github]()
-- [Vim]()
+- [Vim](https://github.com/TOMYUE/CS_self-learning/tree/main/TOOLs/vim%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
 - [LaTex]()
 - [Makefile]()
 - [Cmake]()
