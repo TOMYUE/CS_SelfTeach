@@ -129,4 +129,13 @@ int main(int argc, char* argv[]){
 
 - Result :
 
-  ![image-20270323230322293](../../../../../../Library/Application%20Support/typora-user-images/image-20270323230322293.png)
+ ```
+ parallels@ubuntu-linux-20-04-desktop:~/Desktop/OSTEP/ostep-projects/initial-utilities/wcat$ ./test-wcat.sh 
+test 1: passed
+test 2: passed
+test 3: passed
+test 4: passed
+test 5: passed
+test 6: passed
+test 7: passed
+ ```
